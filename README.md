@@ -4,9 +4,9 @@
 * [Download](#download)
 ## General info
 ![alt text](https://i.imgur.com/eNWStQl.png) \
-Written in C# with WPF. \
-Simple and intuitive PC shutdown timer. \ 
-Only you have to do is select time until your computer turns off. \ 
+Written in C# with WPF. <br>
+Simple and intuitive PC shutdown timer. <br>
+Only you have to do is select time until your computer turns off. <br>
 And you can cancel this at any time. 
 ## Sources:
 - https://www.pikpng.com/pngvi/TRixRx_flat-clock-icon-png-clock-icon-clipart/
